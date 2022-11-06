@@ -1,4 +1,6 @@
-![hello-there](https://user-images.githubusercontent.com/12554146/194775427-add226a9-fc72-491b-9184-44f015a4ecd9.jpeg?s=480)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/12554146/200148876-5b34469d-9b86-483d-a95d-233b2b732e8f.svg" width="96">
+</p>
 
 I am a Full Stack Developer with more than 7 years of experience in building peformant and scaleable web application and microservices. I have worked with a wide variety of tech stacks in my career including Node.js, Laravel, Typescript, Vue.js, Python and Golang.
 
